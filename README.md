@@ -12,7 +12,7 @@ Email: textspeedy@gmail.com
 
 Website: https://textspeedy.com
 
-![TextSpeedy](https://textspeedy.com/wp-content/uploads/2024/06/TextSpeedy.png)
+![TextSpeedy](https://github.com/textspeedy/main/blob/main/image/TextSpeedy.png)
 
 Features
 - Text Expansion: Enhance your typing efficiency with this feature that allows you to insert predefined snippets of text into any application, saving you time and effort.
